@@ -44,12 +44,12 @@ Mateo Robbins (mjrobbins\@ucsb.edu)
 ## Course Topics
 
 |  |  |  |  |  |
-|-------------|-------------|------------------|----------------|-------------|
+|---------------|---------------|---------------|---------------|---------------|
 | **Session** | **Date** | **Lecture** | **Readings** | **Activities** |
 | 1 | 1/6 | [Introduction & preliminaries](https://ucsb.box.com/s/t3cvatsm28w9qonifq0mf512wpr3lttu) | [Baylis2016](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12180), [Ferraro2014](https://www.annualreviews.org/doi/abs/10.1146/annurev-environ-101813-013230) | [In-class Exercise 1](https://ucsb.box.com/s/ld9hmi38tsq3vjsnwsyt5ql3jy5pbkjy) |
 | 2 | 1/8 | [Thinking Strategically](https://ucsb.box.com/s/svpfkutd3edjjj6jda1v31g0zq96o1hl) | [Gertler Ch.1](https://openknowledge.worldbank.org/entities/publication/ebbe3565-69ff-5fe2-b65d-11329cf45293), Skim:[Pritchett2002](https://www.tandfonline.com/doi/pdf/10.1080/1384128032000096832) | [In-class Exercise 2](https://ucsb.box.com/s/qwqrvmthegih62ez6ofzbi366mya640k) |
 | 3 | 1/13 | [Theory of Change](https://ucsb.box.com/s/o6ta9f07h51u279cxdepzq3yaz15vlnq) | [White2009](https://www.tandfonline.com/doi/pdf/10.1080/19439340903114628), [CI2013](https://ucsb.box.com/s/28jmyb4y1ie46skt95a11psq7hzov7df) | [In-class Exercise 3](https://ucsb.box.com/s/izwjmrsavvtwp4iycjok3bckcykuegi0) |
-| 4 | 1/15 | Theory of Change - Practicum |  | [Practicum 1](https://ucsb.box.com/s/r1l5prq3zb3mvov0fsmc3obgl52mcqc3) |
+| 4 | 1/15 | [Theory of Change - Practicum](https://ucsb.box.com/s/vp3ranazbkc208e5bbs716ds3glmrcud) |  | [Practicum 1](https://ucsb.box.com/s/r1l5prq3zb3mvov0fsmc3obgl52mcqc3) |
 | 5 | 1/20 | Results framework & indicators | IEG2012, Anderson2015 |  |
 | 6 | 1/22 | Human subjects | Newcomer2015, Nuno2015 |  |
 | 7 | 1/27 | Sampling bias | Kennedy2018, Adams2018 |  |
